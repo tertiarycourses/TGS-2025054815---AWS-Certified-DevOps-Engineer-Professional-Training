@@ -2,8 +2,8 @@
 
 **TGS Ref No:** TGS-2025054815  
 **Provider:** Tertiary Infotech Academy Pte Ltd (UEN: 201200696W)  
-**Version:** 1.0  
-**Release date:** 10 Jul 2026
+**Version:** 2.0  
+**Release date:** 13 Jul 2026
 
 ## How to Use This Guide
 

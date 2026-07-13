@@ -1,0 +1,321 @@
+{
+  "course": {
+    "title": "AWS Certified DevOps Engineer Professional Training",
+    "code": "TGS-2025054815",
+    "version": "v2"
+  },
+  "labs": {
+    "1": {
+      "title": "Account Safety, IAM, DevOps Tooling, and Governance Baseline",
+      "start": 15,
+      "end": 18,
+      "overview": 15,
+      "steps": 17,
+      "verify": 18
+    },
+    "2": {
+      "title": "Infrastructure as Code with CloudFormation, CDK, Config, and Drift",
+      "start": 19,
+      "end": 22,
+      "overview": 19,
+      "steps": 21,
+      "verify": 22
+    },
+    "3": {
+      "title": "CI/CD with CodePipeline, CodeBuild, CodeDeploy, and Artifact Stores",
+      "start": 23,
+      "end": 26,
+      "overview": 23,
+      "steps": 25,
+      "verify": 26
+    },
+    "4": {
+      "title": "Deployment Strategies for Lambda, ECS, EC2, and Elastic Beanstalk",
+      "start": 28,
+      "end": 31,
+      "overview": 28,
+      "steps": 30,
+      "verify": 31
+    },
+    "5": {
+      "title": "Systems Manager, Automation, Patch, Parameter Store, and Run Command",
+      "start": 32,
+      "end": 35,
+      "overview": 32,
+      "steps": 34,
+      "verify": 35
+    },
+    "6": {
+      "title": "Observability with CloudWatch, X-Ray, CloudTrail, EventBridge, and Alarms",
+      "start": 37,
+      "end": 40,
+      "overview": 37,
+      "steps": 39,
+      "verify": 40
+    },
+    "7": {
+      "title": "High Availability, Backup, Disaster Recovery, and Auto Remediation",
+      "start": 41,
+      "end": 44,
+      "overview": 41,
+      "steps": 43,
+      "verify": 44
+    },
+    "8": {
+      "title": "Security, Compliance, Cost Optimization, and Exam Review",
+      "start": 46,
+      "end": 49,
+      "overview": 46,
+      "steps": 48,
+      "verify": 49
+    }
+  },
+  "topics": {
+    "domain_1": {
+      "divider": 14,
+      "start": 14,
+      "end": 26
+    },
+    "domain_2": {
+      "divider": 27,
+      "start": 27,
+      "end": 35
+    },
+    "domain_3": {
+      "divider": 36,
+      "start": 36,
+      "end": 44
+    },
+    "domain_4": {
+      "divider": 45,
+      "start": 45,
+      "end": 49
+    }
+  },
+  "slides": [
+    {
+      "slide": 1,
+      "label": "Title"
+    },
+    {
+      "slide": 2,
+      "label": "Digital Attendance"
+    },
+    {
+      "slide": 3,
+      "label": "Trainer General"
+    },
+    {
+      "slide": 4,
+      "label": "Trainer Named"
+    },
+    {
+      "slide": 5,
+      "label": "Learner Introduction"
+    },
+    {
+      "slide": 6,
+      "label": "Ground Rules"
+    },
+    {
+      "slide": 7,
+      "label": "Course Outline"
+    },
+    {
+      "slide": 8,
+      "label": "Learning Outcomes"
+    },
+    {
+      "slide": 9,
+      "label": "Briefing for Assessment"
+    },
+    {
+      "slide": 10,
+      "label": "Assessment"
+    },
+    {
+      "slide": 11,
+      "label": "Assessment Flow"
+    },
+    {
+      "slide": 12,
+      "label": "Access Labs"
+    },
+    {
+      "slide": 13,
+      "label": "Workbench"
+    },
+    {
+      "slide": 14,
+      "label": "Domain 1"
+    },
+    {
+      "slide": 15,
+      "label": "Lab 1 Overview"
+    },
+    {
+      "slide": 16,
+      "label": "Lab 1 Objectives"
+    },
+    {
+      "slide": 17,
+      "label": "Lab 1 Steps"
+    },
+    {
+      "slide": 18,
+      "label": "Lab 1 Verify"
+    },
+    {
+      "slide": 19,
+      "label": "Lab 2 Overview"
+    },
+    {
+      "slide": 20,
+      "label": "Lab 2 Objectives"
+    },
+    {
+      "slide": 21,
+      "label": "Lab 2 Steps"
+    },
+    {
+      "slide": 22,
+      "label": "Lab 2 Verify"
+    },
+    {
+      "slide": 23,
+      "label": "Lab 3 Overview"
+    },
+    {
+      "slide": 24,
+      "label": "Lab 3 Objectives"
+    },
+    {
+      "slide": 25,
+      "label": "Lab 3 Steps"
+    },
+    {
+      "slide": 26,
+      "label": "Lab 3 Verify"
+    },
+    {
+      "slide": 27,
+      "label": "Domain 2"
+    },
+    {
+      "slide": 28,
+      "label": "Lab 4 Overview"
+    },
+    {
+      "slide": 29,
+      "label": "Lab 4 Objectives"
+    },
+    {
+      "slide": 30,
+      "label": "Lab 4 Steps"
+    },
+    {
+      "slide": 31,
+      "label": "Lab 4 Verify"
+    },
+    {
+      "slide": 32,
+      "label": "Lab 5 Overview"
+    },
+    {
+      "slide": 33,
+      "label": "Lab 5 Objectives"
+    },
+    {
+      "slide": 34,
+      "label": "Lab 5 Steps"
+    },
+    {
+      "slide": 35,
+      "label": "Lab 5 Verify"
+    },
+    {
+      "slide": 36,
+      "label": "Domain 3"
+    },
+    {
+      "slide": 37,
+      "label": "Lab 6 Overview"
+    },
+    {
+      "slide": 38,
+      "label": "Lab 6 Objectives"
+    },
+    {
+      "slide": 39,
+      "label": "Lab 6 Steps"
+    },
+    {
+      "slide": 40,
+      "label": "Lab 6 Verify"
+    },
+    {
+      "slide": 41,
+      "label": "Lab 7 Overview"
+    },
+    {
+      "slide": 42,
+      "label": "Lab 7 Objectives"
+    },
+    {
+      "slide": 43,
+      "label": "Lab 7 Steps"
+    },
+    {
+      "slide": 44,
+      "label": "Lab 7 Verify"
+    },
+    {
+      "slide": 45,
+      "label": "Domain 4"
+    },
+    {
+      "slide": 46,
+      "label": "Lab 8 Overview"
+    },
+    {
+      "slide": 47,
+      "label": "Lab 8 Objectives"
+    },
+    {
+      "slide": 48,
+      "label": "Lab 8 Steps"
+    },
+    {
+      "slide": 49,
+      "label": "Lab 8 Verify"
+    },
+    {
+      "slide": 50,
+      "label": "Summary"
+    },
+    {
+      "slide": 51,
+      "label": "LMS"
+    },
+    {
+      "slide": 52,
+      "label": "Practice Exam"
+    },
+    {
+      "slide": 53,
+      "label": "End Assessment"
+    },
+    {
+      "slide": 54,
+      "label": "End Assessment Flow"
+    },
+    {
+      "slide": 55,
+      "label": "End Attendance"
+    },
+    {
+      "slide": 56,
+      "label": "Thank You"
+    }
+  ]
+}
